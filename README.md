@@ -2,8 +2,9 @@
 A program that marks a spot on a map with an X.
 
 ## How to Use
-  -- Run the program and enter the coordinates where you want to mark the spot (e.g. B3).
-  -- The program will update the map with an X at the specified coordinates.
+  --Run the program and enter the coordinates where you want to mark the spot (e.g. B3).
+
+  --The program will update the map with an X at the specified coordinates.
 ### Example Input/Output
 Example 1
 

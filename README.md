@@ -35,5 +35,8 @@ Hiding your treasure! X marks the spot.
 
 ## Notes
   -- The map is represented as a nested list.
+
   -- The program takes user input and converts it to a usable format.
+
   -- The program updates the nested list with an "X" at the specified coordinates.
+
